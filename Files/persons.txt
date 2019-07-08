@@ -1,0 +1,9 @@
+Samuel,Walter,21.12.1985
+Claudia,Mereu,23.05.1985
+Charlie,Walter,23.04.2014
+Ralph,Rocket,12.12.2012
+Rudolph,Rocket,12.12.2012
+John,Doe,05.08.1990
+Peter,Hauser,01.01.1996
+Martin,Meckermann,19.07.2000
+Reinhardt,Roombrach,01.01.1945
